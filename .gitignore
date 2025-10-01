@@ -1,0 +1,8 @@
+# Folder cache Python
+__pycache__/
+
+# File video sementara hasil download
+*.mp4
+
+# File .env (kalau kamu pakai untuk simpan TOKEN secara lokal)
+*.env

@@ -1,0 +1,5 @@
+# Library utama untuk interaksi dengan Telegram Bot API
+python-telegram-bot==20.6
+
+# Library downloader (yt-dlp) untuk mengambil video dari Instagram
+yt-dlp
